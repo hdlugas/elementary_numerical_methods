@@ -1,4 +1,4 @@
-#solves a particular first-order differential equation
+#solves a first-order differential equation
 #with a given initial value using the Taylor Series Method of order 1,
 #,i.e. Euler's Method
 #exercise 7.1.C4
