@@ -1,4 +1,4 @@
-#this script uses a finite difference method to approximate the solution of a parabolic PDE
+#this script uses a finite difference method to approximate the solution of the heat conduction PDE
 
 import numpy as np
 import matplotlib.pyplot as plt
