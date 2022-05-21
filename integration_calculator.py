@@ -1,4 +1,4 @@
-#this script tests the following integration rules:
+#this script computes a definite integral using the following integration rules:
 #composite trapezoidal rule
 #composite Simpson's rule
 #two-point Gaussian quadrature rule
