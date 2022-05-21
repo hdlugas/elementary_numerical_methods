@@ -1,4 +1,4 @@
-#this script solves a pentadiagonal matrix
+#this script solves a matrix equation with a pentadiagonal matrix
 
 import numpy as np
 
