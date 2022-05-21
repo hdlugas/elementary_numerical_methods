@@ -28,3 +28,6 @@ runge_kutta_fourth_order: uses the fourth-order Runge-Kutta method to approximat
 
 tridiagonal_matrix_eqn_solver: solves Ax=b for tridiagonal matrix A
 
+wave_eqn_solver_exact: approximates the solution of the wave equation PDE using an odd periodic extension of the solution function
+
+wave_eqn_solver_finite_difference: approximates the solution to the wave equation PDE using two different finite difference methods
