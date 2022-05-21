@@ -1,6 +1,5 @@
 #this script uses the fourth-order Runge-Kutta method
-#to approximate a first-order differential equation
-
+#to approximate a first-order ODE
 
 import numpy as np
 import matplotlib.pyplot as plt
