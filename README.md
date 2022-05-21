@@ -18,6 +18,8 @@ integration_calculator: computes a definite integral using the following integra
 
 invert_matrix_using_LU_decomp: inverts a nonsingular matrix using LU decomposition
 
+iterative_matrix_eqn_solvers: uses the Jacobi, Gauss-Seidel, and Successive Over-Relaxatoin methods to iteratively solve a linear system of equations
+
 newton_vs_secant_method: compares Newton's method with the secant method for a given differentiable function
 
 newtons_method: uses Newton's method to compute the reciprocal of a number R using the iterative formula x_{n+1}=x_{n}(2-x_{n}R)
