@@ -1,4 +1,4 @@
-
+#this script uses the Crank-Nicolson Method to approximate the solution of the heat conduction PDE
 
 import numpy as np
 import matplotlib.pyplot as plt
