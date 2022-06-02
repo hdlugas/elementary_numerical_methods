@@ -34,4 +34,4 @@ wave_eqn_solver_exact: approximates the solution of the wave equation PDE using 
 
 wave_eqn_solver_finite_difference: approximates the solution to the wave equation PDE using two different finite difference methods
 
-*Several of the scripts solve exercises in the textbook "Numerical Mathematics and Computing" by Cheney and Kincaid, Seventh Edition
+*Several of the scripts solve exercises in the textbook "Numerical Mathematics and Computing" by Cheney and Kincaid, Seventh Edition.
